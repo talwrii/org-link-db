@@ -1,6 +1,6 @@
 # Org db link
 
-Keep a database of org links and create linkks to them.
+Keep a database of links, use them in your org document.
 
 # Motivation
 
