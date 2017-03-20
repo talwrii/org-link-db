@@ -1,0 +1,10 @@
+* Link with description
+[[db:db.org:Link][Link]]
+
+* Link with a description from the link db
+[[db:db.org:Link]]
+
+* Nested links
+
+[[db:db.org:Books.First book]]
+[[db:db.org:Books.Second book]]
