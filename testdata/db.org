@@ -1,0 +1,9 @@
+* Link
+[[file:linked1.html][linked1]]
+
+
+* Books
+** First book
+[[file:firstbook.html][first book]]
+** Second book
+[[http://www.book.com/][second book]]
